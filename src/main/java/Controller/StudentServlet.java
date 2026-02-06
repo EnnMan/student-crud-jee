@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.List;
 
 import Model.Student;
-import Model.StudentDAO;
+import dao.StudentDAO;
 
 @WebServlet("/students")
 public class StudentServlet extends HttpServlet {

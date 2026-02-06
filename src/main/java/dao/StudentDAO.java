@@ -1,4 +1,6 @@
-package Model;
+package dao;
+
+import Model.Student;
 
 import java.sql.*;
 import java.util.*;
